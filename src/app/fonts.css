@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'dsdigital-italic';
+    src: url('../../public/fonts/DS-DIGII.woff2') format('woff2'),
+         url('../../public/fonts/DS-DIGII.woff') format('woff');
+    /* Add additional formats if necessary */
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+font-family: 'dsdigital';
+src: url('../../public/fonts/DS-DIGI.woff2') format('woff2'),
+     url('../../public/fonts/DS-DIGI.woff') format('woff');
+/* Add additional formats if necessary */
+font-weight: normal;
+font-style: normal;
+}
