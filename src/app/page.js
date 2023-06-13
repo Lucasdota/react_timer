@@ -110,7 +110,7 @@ export default function Home() {
   }, [currentTime]);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-16 bg-slate-950 tracking-wider md:p-2">
+    <main className="flex min-h-screen flex-col items-center justify-center p-16 bg-slate-50 tracking-wider md:p-2">
       <a href="#start_stop" className="hidden">Go to Play/Pause button</a>
       <div className="w-[40rem] h-[17rem] bg-zinc-900 flex items-center justify-center p-12 text-white rounded-full drop-shadow-xl outline outline-4 outline-zinc-900 border-2 border-yellow-300 md:flex-col md:w-4/5 md:h-[35rem] md:rounded-xl md:pt-0">
 
