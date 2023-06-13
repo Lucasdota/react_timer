@@ -9,5 +9,6 @@ Features:
 - Custom session buttons
 - Visual display in seconds
 - Responsive design
+- Accessibility guidelines followed
 
 Link: [Website](https://react-timer-git-master-lucasdota.vercel.app/)
