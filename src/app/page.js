@@ -173,7 +173,7 @@ export default function Home() {
             
             <label for="reset" alt="stop and reset the timer to its default state which is: break with 5 minutes and session with 25 minutes" className="rounded-r-full outline outline-1 outline-zinc-600 flex items-center justify-center">
               <button id="reset" className="px-3 py-2 rounded-r-full bg-black group md:px-6 md:py-2 xs:p-1 xs:px-2" onClick={handleReset}>
-                <ArrowClockwise alt="Reset circle image" size={22} className="group-active:scale-75 text-yellow-300 md:scale-150 xs:scale-100" />
+                <ArrowClockwise alt="Reset circle image" size={28} className="group-active:scale-75 text-yellow-300 md:scale-125 xs:scale-100" />
               </button>
             </label>
             
