@@ -1,8 +1,8 @@
-## A Front End Project
+## Timer
 
-Built in VS Code with the React framework Nextjs and TailwindCSS.
+### A react timer with extra functionalities.
 
-Features:
+Main features:
 
 - Beep sound to alarm end of session and break
 - Custom break buttons
@@ -11,4 +11,4 @@ Features:
 - Responsive design
 - Accessibility guidelines followed
 
-Link: [Website](https://react-timer-git-master-lucasdota.vercel.app/)
+Website: [click here](https://react-timer-git-master-lucasdota.vercel.app/)
